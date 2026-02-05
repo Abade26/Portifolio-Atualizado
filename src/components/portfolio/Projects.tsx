@@ -36,11 +36,11 @@ const projects = [
     icon: Settings,
     tags: ["automation", "backgroundService", "dotnet", "sqlServer"],
   },
-  {
-    key: "project2",
-    icon: Wrench,
-    tags: ["dotnet", "sqlServer", "maintenance", "optimization"],
-  },
+ // {
+  //  key: "project2",
+  //  icon: Wrench,
+  //  tags: ["dotnet", "sqlServer", "maintenance", "optimization"],
+ // },
 ];
 
 export const Projects = () => {
