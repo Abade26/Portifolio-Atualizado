@@ -29,7 +29,7 @@ const projects = [
     key: "project5",
     icon: Wrench,
     tags: ["html", "css", "javascript", "firebase", "webSystem"],
-    repoUrl: "https://github.com/Abade26/Tela-principal-PsicoConnect",
+    repoUrl: "https://github.com/Abade26/Psiconnect",
   },
   {
     key: "project1",
